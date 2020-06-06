@@ -34,7 +34,7 @@
     "@babel/core": "7.7.7",
     "@babel/plugin-proposal-class-properties": "7.7.4",
     "@babel/plugin-proposal-object-rest-spread": "7.7.7",
-    "@babel/preset-env": "7.7.7",
+    "@babel/preset-env": "7.10.2",
     "@babel/preset-react": "7.7.4",
     "@lessondesk/material-icons": "1.0.2",
     "@radio-retail/babel-preset": "1.0.0",
